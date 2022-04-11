@@ -1,0 +1,7 @@
+<routes>
+   <vType id="car" type="passenger" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
+   <flow id="carflow" type="car" beg="0" end="0" number="5" from="edge1" to="edge2"/>
+</routes>
+
+<!--  <flow id="<ID>" from="<ORIGIN_EDGE_ID>" to="<DESTINATION_EDGE_ID>" begin="<INTERVAL_BEGIN>" end="<INTERVAL_END>" 
+            number="<VEHICLES_TO_INSERT>" [type="<VEHICLE_TYPE>"] [color="<COLOR>"]/>                   -->
